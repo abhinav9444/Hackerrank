@@ -1,9 +1,13 @@
-# Ruby Solutions
+# (https://www.ruby-lang.org/images/header-ruby-logo.png) [Ruby] Solutions
 
-This folder contains solutions to problems solved in Ruby on HackerRank. Below is the index of problems along with links to their solution files.
+This directory contains solutions to problems solved in Ruby on HackerRank. Each solution file is named sequentially as `1.rb`, `2.rb`, `3.rb`, and so on.
 
-## Index
+## Index of Problems
 
-1. [Problem Title 1](1.rb) --- 1.rb
-2. [Problem Title 2](2.rb) --- 2.rb
-3. [Problem Title 3](3.rb) --- 3.rb
+| Problem Title                    | Solution File |
+|----------------------------------|---------------|
+| [Simple Array Sum](1.rb)         | 1.rb          |
+| [Another Problem Title](2.rb)    | 2.rb          |
+| [Yet Another Problem Title](3.rb)| 3.rb          |
+
+---
