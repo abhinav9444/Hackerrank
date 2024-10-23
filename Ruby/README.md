@@ -1,4 +1,4 @@
-# ![Ruby Logo](https://www.ruby-lang.org/images/header-ruby-logo.png) Ruby Solutions
+# <img src="https://www.ruby-lang.org/images/header-ruby-logo.png" alt="Ruby Logo" width="25" height="25"> Ruby Solutions
 
 This directory contains solutions to problems solved in Ruby on HackerRank. Each solution file is named sequentially as `1.rb`, `2.rb`, `3.rb`, and so on.
 
