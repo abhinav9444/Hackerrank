@@ -1,6 +1,6 @@
 # Hackerrank
 
-Welcome to the Hackerrank repository! This repository contains solutions to various coding problems that I have solved on HackerRank. The aim is to provide clean, efficient, and well-documented solutions to help others understand different problem-solving approaches in Python.
+Welcome to the Hackerrank repository! This repository contains solutions to various coding problems that I have solved on HackerRank. The aim is to provide clean, efficient, and well-documented solutions to give clear insights into my problem-solving approaches in various approaches.
 
 ## 📁 Repository Structure
 
