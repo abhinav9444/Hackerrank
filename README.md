@@ -10,6 +10,10 @@ The repository is organized as follows:
 - **/solutions**: Contains Python scripts with solutions to specific problems, named according to the problem title.
 - **/resources**: Contains additional resources like problem statements, test cases, and explanations.
 
+## 📜 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
 ## 🚀 Usage
 
 1. **Clone the repository:**
