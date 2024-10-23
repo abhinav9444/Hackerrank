@@ -16,3 +16,10 @@ The repository is organized as follows:
    ```bash
    git clone https://github.com/AbhinavKumarSingh/Hackerrank.git
    cd Hackerrank
+1. **Navigate to the problem category:**
+   ```bash
+   cd problems/Algorithms
+
+3. **Run a solution script:**
+   ```bash
+   python solution_name.py
