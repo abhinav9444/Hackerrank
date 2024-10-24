@@ -31,8 +31,8 @@ All the solutions provided in this repository are specifically written for Hacke
 
 To execute these solutions successfully:
 
-- <strong>Access the Problems:</strong> Ensure you have the full problem description and constraints from HackerRank.
+- <strong>Access the Problems:</strong> Ensure you have the full problem description and constraints from HackerRank. Access it from the problem link given in the solution code.
 
-- <strong>Run on HackerRank:</strong> Use HackerRank's built-in code editor and compiler to test and run the solutions for the particular problem from the problem link given in the solution code.
+- <strong>Run on HackerRank:</strong> Use HackerRank's built-in code editor and compiler to test and run the solutions for the particular problem.
 
 The code is designed to meet the problem's requirements and constraints and may depend on specific input and output formats provided by HackerRank.
