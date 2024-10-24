@@ -9,7 +9,7 @@ This directory contains solutions to problems solved in Ruby on HackerRank. Each
 |----------------------------------|---------------|
 | Ruby Tutorial - Hello HackerRank!| [1.rb](1.rb)  |
 | Ruby Tutorial - Everything is an Object| [2.rb](2.rb)|
-| [Yet Another Problem Title](3.rb)| 3.rb          |
+| Ruby Tutorial - Object Methods| [3.rb](3.rb)|
 
 ---
 
