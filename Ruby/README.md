@@ -14,8 +14,8 @@ This directory contains solutions to problems solved in Ruby on HackerRank. Each
 | Ruby Control Structures - Infinite Loop| [5.rb](5.rb)|
 | Ruby Control Structures - Until| [6.rb](6.rb)|
 | Ruby Control Structures - Case (Bonus Question)| [7.rb](7.rb)|
-|Ruby Control Structures - Unless||[8.rb](8.rb)|
-|Ruby Control Structures - Each||[9.rb](9.rb)|
+|Ruby Control Structures - Unless| [8.rb](8.rb)|
+|Ruby Control Structures - Each| [9.rb](9.rb)|
 
 ---
 
