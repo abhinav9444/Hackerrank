@@ -1,6 +1,7 @@
 # <img src="https://www.ruby-lang.org/images/header-ruby-logo.png" alt="Ruby Logo" width="25" height="25"> Ruby Solutions
 
 This directory contains solutions to problems solved in Ruby on HackerRank. Each solution file is named sequentially as `1.rb`, `2.rb`, `3.rb`, and so on.
+All the 
 
 
 ## Index of Problems
@@ -19,6 +20,14 @@ This directory contains solutions to problems solved in Ruby on HackerRank. Each
 
 ---
 
-### Summary
+# Note
 
-This structure provides a clear overview of how solutions are organized by programming language and problem type, making it easy for users to navigate and understand the repository's content.
+All the solutions provided in this repository are specifically written for HackerRank problems. These solutions may contain only the necessary code to complete the given task as required by HackerRank's platform. As a result, the code snippets might not run directly on a local machine without the full problem context provided by HackerRank.
+
+To execute these solutions successfully:
+
+- <strong>Access the Problems:</strong> Ensure you have the full problem description and constraints from HackerRank.
+
+- <strong>Run on HackerRank:</strong> Use HackerRank's built-in code editor and compiler to test and run the solutions for the particular problem from the problem link given in the solution code.
+
+The code is designed to meet the problem's requirements and constraints and may depend on specific input and output formats provided by HackerRank.
