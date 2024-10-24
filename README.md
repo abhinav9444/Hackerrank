@@ -1,6 +1,6 @@
 # Hackerrank Solutions
 
-Welcome to the Hackerrank Solutions repository! This repository contains solutions to various programming problems that I have solved on HackerRank, organized by domains (programming language,Problem Solving, etc). The aim is to provide clean, efficient, and well-documented solutions to give clear insights into my problem-solving approaches in various domains and languages.
+Welcome to the Hackerrank Solutions repository! This repository contains solutions to various programming problems that I have solved on HackerRank, organized by domains (programming language,Problem Solving, etc). The aim is to provide clean, efficient, and well-documented solutions to give clear insights into my problem-solving approaches in various domains and programming languages.
 
 ## 📁 Repository Structure
 
