@@ -17,6 +17,11 @@ All the
 | Ruby Control Structures - Case (Bonus Question)| [7.rb](7.rb)|
 |Ruby Control Structures - Unless| [8.rb](8.rb)|
 |Ruby Control Structures - Each| [9.rb](9.rb)|
+|Ruby Array - Initialization| [10.rb](10.rb)|
+|Ruby Array - Index, Part 1|[11.rb](11.rb)|
+|Ruby Array - Index, Part 2|[12.rb](12.rb)|
+|Ruby Array - Addition|[13.rb](13.rb)|
+
 
 ---
 
