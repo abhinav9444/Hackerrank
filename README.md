@@ -10,7 +10,7 @@ Welcome to the <strong>HackerRank Solutions</strong> repository ! This repositor
 The repository is organized as follows:
 
 - **/Domain Name :** Contains directories for each problem category (e.g., Algorithms, Data Structures, Mathematics, Python, C, Ruby, etc).
-   - ↳ **/solution files :** Contains Solution code with solutions to specific problems, named in sequential order indexed according to the problem title as given on the HackerRank site. Each Solution file contains its Problem link commented on the top of the solution code<br>
+   - ↳ **/Solution Files :** Contains Solution code with solutions to specific problems, named in sequential order indexed according to the problem title as given on the HackerRank site. Each Solution file contains its Problem link commented on the top of the solution code<br>
    - ↳ **/Readme File :** Contains additional information including description of the directory, usage of the solution files with explanations.
 
 Below is a Exemplar visual representation of the Repository Structure :  
