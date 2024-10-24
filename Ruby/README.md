@@ -10,6 +10,10 @@ This directory contains solutions to problems solved in Ruby on HackerRank. Each
 | Ruby Tutorial - Hello HackerRank!| [1.rb](1.rb)  |
 | Ruby Tutorial - Everything is an Object| [2.rb](2.rb)|
 | Ruby Tutorial - Object Methods| [3.rb](3.rb)|
+| Ruby Tutorial - Object Method Parameters| [4.rb](4.rb)|
+| Ruby Control Structures - Infinite Loop| [5.rb](5.rb)|
+| Ruby Control Structures - Until| [6.rb](6.rb)|
+| Ruby Control Structures - Case (Bonus Question)| [7.rb](7.rb)|
 
 ---
 
