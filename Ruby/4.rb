@@ -1,4 +1,3 @@
-a=65
-b=34
-c=98
+#Problem Link : https://www.hackerrank.com/challenges/ruby-tutorials-object-method-parameters/problem?isFullScreen=true
+
 print a.between?(b,c)
