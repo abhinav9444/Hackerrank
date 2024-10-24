@@ -1,4 +1,4 @@
-#Problem Link : https://www.hackerrank.com/challenges/ruby-tutorial-object-methods/problem?isFullScreen=true
+# Problem Link : https://www.hackerrank.com/challenges/ruby-tutorial-object-methods/problem?isFullScreen=true
 
 def odd_or_even(number)
 

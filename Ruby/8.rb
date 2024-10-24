@@ -1,4 +1,4 @@
-#Problem Link : https://www.hackerrank.com/challenges/ruby-tutorial-unless/problem?isFullScreen=true
+# Problem Link : https://www.hackerrank.com/challenges/ruby-tutorial-unless/problem?isFullScreen=true
 
 def scoring(array)
     # update_score of every user in the array unless the user is admin
