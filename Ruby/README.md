@@ -8,15 +8,15 @@ All the
 
 | Problem Title                    | Solution File |
 |----------------------------------|---------------|
-| Ruby Tutorial - Hello HackerRank!| [1.rb](1.rb)  |
-| Ruby Tutorial - Everything is an Object| [2.rb](2.rb)|
-| Ruby Tutorial - Object Methods| [3.rb](3.rb)|
-| Ruby Tutorial - Object Method Parameters| [4.rb](4.rb)|
-| Ruby Control Structures - Infinite Loop| [5.rb](5.rb)|
-| Ruby Control Structures - Until| [6.rb](6.rb)|
-| Ruby Control Structures - Case (Bonus Question)| [7.rb](7.rb)|
-|Ruby Control Structures - Unless| [8.rb](8.rb)|
-|Ruby Control Structures - Each| [9.rb](9.rb)|
+| Ruby Tutorial - Hello HackerRank!| [01.rb](01.rb)  |
+| Ruby Tutorial - Everything is an Object| [02.rb](02.rb)|
+| Ruby Tutorial - Object Methods| [03.rb](03.rb)|
+| Ruby Tutorial - Object Method Parameters| [04.rb](04.rb)|
+| Ruby Control Structures - Infinite Loop| [05.rb](05.rb)|
+| Ruby Control Structures - Until| [06.rb](06.rb)|
+| Ruby Control Structures - Case (Bonus Question)| [07.rb](07.rb)|
+|Ruby Control Structures - Unless| [08.rb](08.rb)|
+|Ruby Control Structures - Each| [09.rb](09.rb)|
 |Ruby Array - Initialization| [10.rb](10.rb)|
 |Ruby Array - Index, Part 1|[11.rb](11.rb)|
 |Ruby Array - Index, Part 2|[12.rb](12.rb)|
