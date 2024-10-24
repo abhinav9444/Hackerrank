@@ -21,6 +21,8 @@ All the
 |Ruby Array - Index, Part 1|[11.rb](11.rb)|
 |Ruby Array - Index, Part 2|[12.rb](12.rb)|
 |Ruby Array - Addition|[13.rb](13.rb)|
+|Ruby Array - Deletion|[14.rb](14.rb)|
+|Ruby Array - Selection|[15.rb](15.rb)|
 
 
 ---
