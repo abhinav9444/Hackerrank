@@ -23,7 +23,24 @@ All the
 |Ruby Array - Addition|[13.rb](13.rb)|
 |Ruby Array - Deletion|[14.rb](14.rb)|
 |Ruby Array - Selection|[15.rb](15.rb)|
-
+||[16.rb](16.rb)|
+||[17.rb](17.rb)|
+||[18.rb](18.rb)|
+||[19.rb](19.rb)|
+||[20.rb](20.rb)|
+||[21.rb](21.rb)|
+||[22.rb](22.rb)|
+||[23.rb](23.rb)|
+||[24.rb](24.rb)|
+||[25.rb](25.rb)|
+||[26.rb](26.rb)|
+||[27.rb](27.rb)|
+||[28.rb](28.rb)|
+||[29.rb](29.rb)|
+||[30.rb](30.rb)|
+||[31.rb](31.rb)|
+||[32.rb](32.rb)|
+||[33.rb](33.rb)|
 
 ---
 
