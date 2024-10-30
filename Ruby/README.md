@@ -23,9 +23,9 @@ All the
 |Ruby Array - Addition|[13.rb](13.rb)|
 |Ruby Array - Deletion|[14.rb](14.rb)|
 |Ruby Array - Selection|[15.rb](15.rb)|
-||[16.rb](16.rb)|
-||[17.rb](17.rb)|
-||[18.rb](18.rb)|
+|Ruby Hash - Initialization|[16.rb](16.rb)|
+|Ruby Hash - Each|[17.rb](17.rb)|
+|Ruby Hash - Addition, Deletion, Selection|[18.rb](18.rb)|
 ||[19.rb](19.rb)|
 ||[20.rb](20.rb)|
 ||[21.rb](21.rb)|
