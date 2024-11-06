@@ -26,8 +26,8 @@ All the
 |Ruby Hash - Initialization|[16.rb](16.rb)|
 |Ruby Hash - Each|[17.rb](17.rb)|
 |Ruby Hash - Addition, Deletion, Selection|[18.rb](18.rb)|
-||[19.rb](19.rb)|
-||[20.rb](20.rb)|
+|Ruby - Enumerable - Introduction|[19.rb](19.rb)|
+|Ruby - Enumerable - each_with_index|[20.rb](20.rb)|
 ||[21.rb](21.rb)|
 ||[22.rb](22.rb)|
 ||[23.rb](23.rb)|
