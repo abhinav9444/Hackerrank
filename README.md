@@ -11,24 +11,25 @@ The repository is organized as follows:
 
 - **/Domain Name :** Contains directories for each problem category (e.g., Algorithms, Data Structures, Mathematics, Python, C, Ruby, etc).
    -  **/Solution Files :** Contains Solution code with solutions to specific problems, named in sequential order indexed according to the problem title as given on the HackerRank site. Each Solution file contains its Problem link commented on the top of the solution code<br>
-   -  **/Readme File :** Contains additional information including description of the directory, usage of the solution files with explanations.
+   -  **/Readme or Index File :** Contains additional information including description of the directory, usage of the solution files with explanations.
 <br>
 Below is a Exemplar visual representation of the Repository Structure :  <br><br>
 
 
 >- **HackerRank/**  (Parent Directory)
->  - **Ruby/**  (Subdirectory for Ruby solutions)
->    - `1.rb`  # Solution for problem 1
->    - `2.rb`  # Solution for problem 2
->    - `3.rb`  # Solution for problem 3
->  - **Python/**  (Subdirectory for Python solutions)
->    - `1.py`  # Solution for problem 1
->    - `2.py`  # Solution for problem 2
->    - `3.py`  # Solution for problem 3
->  - **Problem_Solving/**  (Subdirectory for problem-solving challenges)
->    - `1_problem_solving.c`  # Solution for problem solving challenge 1
->    - `2_problem_solving.py`  # Solution for problem solving challenge 2
->    - `3_problem_solving.java`  # Solution for problem solving challenge 3
+>    - **Ruby/**  (Subdirectory for Ruby solutions)
+>        - `Index.md` - Index file for navigating to the solution files.
+>        - `1.rb`  - Solution for problem 1
+>        - `2.rb`  - Solution for problem 2
+>        - `3.rb`  - Solution for problem 3
+>    - **Python/**  (Subdirectory for Python solutions)
+>        - `1.py`  - Solution for problem 1
+>        - `2.py`  - Solution for problem 2
+>        - `3.py`  - Solution for problem 3
+>    - **Problem_Solving/**  (Subdirectory for problem-solving challenges)
+>        - `1_problem_solving.c`  - Solution for problem solving challenge 1
+>        - `2_problem_solving.py`  - Solution for problem solving challenge 2
+>        - `3_problem_solving.java`  - Solution for problem solving challenge 3
 
 
 ## 📜 License
