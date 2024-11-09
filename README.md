@@ -30,10 +30,7 @@ Below is a Exemplar visual representation of the Repository Structure :  <br><br
 >    - `2_problem_solving.py`  # Solution for problem solving challenge 2
 >    - `3_problem_solving.java`  # Solution for problem solving challenge 3
 
-### Summary
 
-This structure provides a clear overview of how solutions are organized by programming language and problem type, making it easy for users to navigate and understand the repository's content.
-<br>
 ## 📜 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
